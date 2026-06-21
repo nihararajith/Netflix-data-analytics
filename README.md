@@ -71,3 +71,30 @@ The dashboard provides visual insights through:
 ---
 
 ## Project Structure
+```text
+Netflix-Data-Analytics/
+│
+├── dashboard/
+├── data/
+│   └── netflix_titles.csv
+├── excel-files/
+│   └── Netflix_Analysis.xlsx
+├── screenshots/
+│   ├── dashboard-top.png
+│   ├── dashboard-middle.png
+│   └── dashboard-bottom.png
+└── README.md
+```
+
+
+## Dashboard Preview
+
+### Dashboard Overview
+
+![Dashboard Top](screenshots/dashboard-top.png)
+
+### Dashboard Details
+
+![Dashboard Middle](screenshots/dashboard-middle.png)
+
+![Dashboard Bottom](screenshots/dashboard-bottom.png)
